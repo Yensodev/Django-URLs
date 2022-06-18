@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+# Done
 urlpatterns = [
     path('zuri_admin/', admin.site.urls),
 ]
