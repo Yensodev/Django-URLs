@@ -17,5 +17,5 @@ from django.contrib import admin
 from django.urls import path
 # Done
 urlpatterns = [
-    path('zuri_admin/', admin.site.urls),
+    path('zuri-admin/', admin.site.urls),
 ]
